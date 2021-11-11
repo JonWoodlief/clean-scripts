@@ -1,0 +1,12 @@
+IBMDELETE: FALSE
+IBMMAILALERT: FALSE
+IBMSLACKALERT: FALSE
+
+IBMAPIKEY: example-api-key
+
+EMAILADDRESS: ex@gmail.com
+EMAILPASS: password
+MAILRECIPIENT: ex@ibm.com
+
+SLACKBOTTOKEN: example-token
+SLACKBOTCHANNEL: example-channel-without-pound
